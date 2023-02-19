@@ -40,6 +40,5 @@ public:
 	}
 	friend void function();
 	//friend int main();
-	friend class HocSinh;
 	friend class GiaoVien;
 };
